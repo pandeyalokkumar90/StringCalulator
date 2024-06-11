@@ -1,0 +1,17 @@
+
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‚ëô¡şÿÿÿÿ8‚Åˆ­€2J$bdfcff04-55ec-4db8-98c2-f60dd6fefa7a
+
+java:S3415"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(ª”¡ÿÿÿÿÿÿ8„Åˆ­€2J$6a644f19-d52c-43b7-a4a8-e13b7351cef0
+‚
+java:S1854"":Remove this useless assignment to local variable "thrown".(“ë±øÿÿÿÿ8î«­€2J$ff16f517-94b0-4b30-aafa-060169c68359
+s
+java:S1481""+Remove this unused "thrown" local variable.(“ë±øÿÿÿÿ8øí«­€2J$67d8414c-9261-4016-a6df-0bcaf06f64b2
+}
+java:S1854*":Remove this useless assignment to local variable "thrown".(øıáß8¤¤²­€2J$895266c5-911a-46f1-8c4c-cb26857cfe1c
+n
+java:S1481*"+Remove this unused "thrown" local variable.(øıáß8‹ã²­€2J$365bf72b-c19e-4a6e-875a-7e5692241f5c
+‚
+java:S18542":Remove this useless assignment to local variable "thrown".(¿Ö‰›üÿÿÿÿ8³¦¶­€2J$2f053e35-00e1-43bc-be57-16e8ebd3d2a7
+s
+java:S14812"+Remove this unused "thrown" local variable.(¿Ö‰›üÿÿÿÿ8³¦¶­€2J$a362d35c-d512-45ba-9b58-06593d96c06b

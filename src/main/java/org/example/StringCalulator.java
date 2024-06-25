@@ -2,10 +2,6 @@ package org.example;
 
 
 public class StringCalulator {
-    public static void main(String[] args) {
-       // System.out.printf(""+add("1,5"));
-
-    }
 
     public  int add(String numbers) {
         if (numbers.length() < 2) {
